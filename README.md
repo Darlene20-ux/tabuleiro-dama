@@ -14,4 +14,4 @@ cff# Tabuleiro do Jogo de Dama
 **Legenda**
 
 - ⛂ Raiele
-- ⛀ Peça branca
+- ⛀ Darlene
