@@ -13,5 +13,11 @@ cff# Tabuleiro do Jogo de Dama
 
 **Legenda**
 
+
 - ⛂ Raiele
+<<<<<<< HEAD
+- ⛀ Peça branca
+>>>>>>> c74a2723715fea6dde0331fe88fa318b4c2954f4
+=======
 - ⛀ Darlene
+>>>>>>> 43de169d86d2b334dbfd422897254b2598a4ba42
