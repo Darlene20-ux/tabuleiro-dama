@@ -1,4 +1,4 @@
-# Tabuleiro do Jogo de Dama
+cff# Tabuleiro do Jogo de Dama
 
 |   | a | b | c | d | e | f | g | h |
 |---|---|---|---|---|---|---|---|---|
@@ -13,5 +13,5 @@
 
 **Legenda**
 
-- ⛂ Peça preta
+- ⛂ Raiele
 - ⛀ Peça branca
