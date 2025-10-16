@@ -11,7 +11,7 @@ cff# Tabuleiro do Jogo de Dama
 | 2 |   | ⛀ |   | ⛀ |   | ⛀ |   | ⛀ |
 | 1 | ⛀ |   | ⛀ |   | ⛀ |   | ⛀ |   |
 
-**Legenda**
+**Jogadoras**
 
 
 - ⛂ Raiele
